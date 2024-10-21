@@ -1,5 +1,5 @@
-
 not finished
+https://dgenutis-chess-game.netlify.app
 
 # React + TypeScript + Vite
 
