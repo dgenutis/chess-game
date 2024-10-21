@@ -10,7 +10,7 @@ interface BoardProps {
 
 }
 
-const BoardComponent: FC<BoardProps> = ({board, setBoard}) => {
+const BoardComponent: FC<BoardProps> = ({board}) => {
   return (
     <div className="board">
       {board.cells.map((row, index) =>
