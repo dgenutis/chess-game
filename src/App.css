@@ -38,3 +38,7 @@
 .white {
   background-color: #F5F5F5;
 }
+
+.selected {
+  background-color: gray;
+}
